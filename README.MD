@@ -29,7 +29,7 @@ O projeto permite criar, listar, atualizar e deletar itens via uma interface web
 ## Como Usar
 
 1. Inicie o back-end: `node server.js`.
-2. Abra `index.html` no navegador (ou use um servidor local: `python -m http.server` na pasta do projeto).
+2. Abra `index.html` no navegador.
 3. Use a interface para gerenciar itens.
 
 ## Endpoints da API
