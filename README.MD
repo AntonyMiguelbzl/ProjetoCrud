@@ -23,9 +23,8 @@ O projeto permite criar, listar, atualizar e deletar itens via uma interface web
 ## Instalação
 
 1. Certifique-se de ter o Node.js instalado (versão 14+).
-2. Clone O Projeto `git clone `.
-3. Instale as dependências: `npm install express`.
-4. (Opcional) Instale CORS se necessário: `npm install cors`.
+2. Clone O Projeto `git clone https://github.com/AntonyMiguelbzl/ProjetoCrud.git`.
+3. Instale as dependências: `npm install`.
 
 ## Como Usar
 
